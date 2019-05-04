@@ -1,0 +1,25 @@
+.button
+     {
+    background-color:#ea2929; 
+    color:rgb(255, 255, 255);
+    margin:250px;
+    padding: 20px;
+    border-color:transparent
+    pseudoclasses:active;
+ }
+ button
+ {
+background-color:yellow;
+border-color:blue;
+ }
+ button
+{
+background-color:green;
+color:white;
+margin-left: 1px
+}
+ button{
+color:white;
+background-color:yellow
+
+}
